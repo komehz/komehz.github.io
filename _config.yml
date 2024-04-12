@@ -21,7 +21,7 @@ repository               : "komehz/komehz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myPhoto.jpg"
   name             : "Martin Esugo"
   pronouns         : # example: "she/her"  
   bio              : "Data by day, Dynamics at Night"
