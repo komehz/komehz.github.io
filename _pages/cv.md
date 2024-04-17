@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Traffic Engineering, Coventry University, 2023
+* M.Sc. in Control Engineering, Coventry University, 2017
+* B.Sc. in Electrical/Electronics Engineering, University of Lagos, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Fellow in Data and AI || Apr. 2024 - Current
+  * Birmingham City University
+  * Duties include: 
+    * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
+* Postgraduate Researcher || Sep. 2019 - Sep. 2023
+  * Coventry University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+    * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
+* Research Assistant, Traffic Simulation & Driver Modelling || Nov. 2017 - Nov. 2018
+  * Coventry University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+    * Supervisor: Professor Git
   
 Skills
 ======
