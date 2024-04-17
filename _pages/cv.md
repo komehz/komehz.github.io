@@ -17,24 +17,24 @@ Education
 
 Work experience
 ======
-Research Fellow in Data and AI | Birmingham City University | Apr. 2024 - Current
+* **Research Fellow in Data and AI** | Birmingham City University | Apr. 2024 - Current
   * Duties include: 
-    * Supervisor: The Users
+  * Supervisor: The Users
 
-Postgraduate Researcher | Coventry University | Sep. 2019 - Sep. 2023
+* **Postgraduate Researcher, Traffic Engineering** | Coventry University | Sep. 2019 - Sep. 2023
   * Duties included: Merging pull requests
-    * Supervisor: Professor Hub
+  * Supervisor: Professor Hub
 
-Research Assistant, Traffic Simulation & Driver Modelling | Coventry University | Nov. 2017 - Nov. 2018
+* **Research Assistant, Traffic Simulation & Driver Modelling** | Coventry University | Nov. 2017 - Nov. 2018
   * Duties included: Tagging issues
-    * Supervisor: Professor Git
+  * Supervisor: Professor Git
   
 Skills
 ======
-* Programming Languages: Python, SQL
-* Programming Toolset: Tensorflow/Keras, PyTorch, NumPy, Pandas, Matplotlib, OpenCV, LangChain
-* Technology Stack: Deep Learning, Natural Language Processing, Computer Vision 
-* Platform Proficiency: Amazon SageMaker, Docker, Git
+* **Programming Languages:** Python, SQL
+* **Programming Toolset:** Tensorflow/Keras, PyTorch, NumPy, Pandas, Matplotlib, OpenCV, LangChain
+* **Technology Stack:** Deep Learning, Natural Language Processing, Computer Vision 
+* **Platform Proficiency:** Amazon SageMaker, Docker, Git
 
 Publications
 ======
