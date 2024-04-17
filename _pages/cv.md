@@ -32,8 +32,8 @@ Research Assistant, Traffic Simulation & Driver Modelling | Coventry University 
 Skills
 ======
 * Programming Languages: Python, SQL
-* Programming Toolset: Tensorflow/Keras, NumPy, Pandas, Matplotlib, OpenCV, LangChain
-* Technologies: Deep Learning, Natural Language Processing, Computer Vision 
+* Programming Toolset: Tensorflow/Keras, PyTorch, NumPy, Pandas, Matplotlib, OpenCV, LangChain
+* Technology Stack: Deep Learning, Natural Language Processing, Computer Vision 
 * Platform Proficiency: Amazon SageMaker, Docker, Git
 
 Publications
@@ -42,11 +42,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Talks
-# ======
-#  <ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
+<!--
+Talks
+ ======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+-->
   
 Teaching
 ======
@@ -54,6 +56,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Service and leadership
-# ======
-# * Currently signed in to 43 different slack teams
+<!--
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
+-->
