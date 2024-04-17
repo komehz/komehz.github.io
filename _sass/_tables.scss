@@ -5,6 +5,7 @@
 table {
   margin-bottom: 1em;
   width: 100%;
+  table-layout: fixed; /* This makes all columns equal width */
   font-family: $global-font-family;
   font-size: $type-size-6;
   border-collapse: collapse;
