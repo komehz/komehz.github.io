@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Traffic Engineering, Coventry University, 2023
+* Ph.D. in Transportation Engineering, Coventry University, 2023
 * M.Sc. in Control Engineering, Coventry University, 2017
 * B.Sc. in Electrical/Electronics Engineering, University of Lagos, 2015
 
