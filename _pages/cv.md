@@ -17,19 +17,19 @@ Education
 
 Work experience
 ======
-* **Research Fellow** | Birmingham City University | Apr. 2024 - Current
+**Research Fellow** | Birmingham City University | Apr. 2024 - Current
   * Duties include: 
   * Supervisor: The Users
 
-* **Postgraduate Researcher** | Coventry University | Sep. 2019 - Sep. 2023
+**Postgraduate Researcher** | Coventry University | Sep. 2019 - Sep. 2023
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* **Research Assistant** | Coventry University | Jul. 2022 - Dec. 2022
+**Research Assistant** | Coventry University | Jul. 2022 - Dec. 2022
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* **Research Assistant** | Coventry University | Nov. 2017 - Nov. 2018
+**Research Assistant** | Coventry University | Nov. 2017 - Nov. 2018
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
