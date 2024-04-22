@@ -7,7 +7,7 @@ table {
   width: 100%;
   table-layout: fixed; /* This makes all columns equal width */
   font-family: $global-font-family;
-  font-size: 18px;
+  font-size: 16px;
   border-collapse: collapse;
   border: none;
 
@@ -26,14 +26,14 @@ th {
   font-weight: bold;
   text-align: left;
   border-right: 1px solid none;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 td {
   padding: 0.5em;
   border-bottom: 1px solid none;
   border-right: 1px solid none;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 tr, td, th {
