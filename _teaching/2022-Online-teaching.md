@@ -9,13 +9,3 @@ location: "Coventry, UK"
 ---
 
 Perpared secondary school students for their exams via online lessons.
-
-<!--Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
--->
