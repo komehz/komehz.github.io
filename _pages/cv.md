@@ -17,18 +17,18 @@ Education
 
 Work experience
 ======
-* **Research Fellow** \| Birmingham City University \| Apr. 2024 - Current
-  * Provide AI consultancy and assistance to MedTech companies in the West Midlands.
+* **Research Fellow** \|\| Birmingham City University \|\| Apr. 2024 - Current
+  * Provide AI consultancy and assistance to MedTech companies in the West Midlands (United Kingdom).
 
-* **Postgraduate Researcher** \| Coventry University \| Sep. 2019 - Sep. 2023
+* **Postgraduate Researcher** \|\| Coventry University \|\| Sep. 2019 - Sep. 2023
   * Developed advanced deep-learning-based models, data preprocessing techniques and evaluation methods for traffic flow forecasting.
   * Python libraries used: NumPy, Pandas, Matplotlib, TensorFlow/Keras. 
 
-* **Research Assistant** \| Coventry University \| Jul. 2022 - Dec. 2022
+* **Research Assistant** \|\| Coventry University \|\| Jul. 2022 - Dec. 2022
   * Annotated road-marking images and managed the preprocessing and augmentation of 150,000 images.
   * Trained a highly effective road-marking detection model in Detectron2.
 
-* **Research Assistant** \| Coventry University \| Nov. 2017 - Nov. 2018
+* **Research Assistant** \|\| Coventry University \|\| Nov. 2017 - Nov. 2018
   * Developed advanced traffic simulation models for the iVMS (Intelligent Variable Message Systems) and UKCITE (UK Connected Intelligent Transport Environment) projects.
   * Simulated sophisticated driver assistance features in VISSIM and AIMSUN.
   
