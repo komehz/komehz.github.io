@@ -9,13 +9,3 @@ location: "Rugby, UK"
 ---
 
 Teaching python and visual programming to enthusiastic children and teens.
-<!--
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
--->
