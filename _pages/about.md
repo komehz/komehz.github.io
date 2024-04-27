@@ -15,7 +15,6 @@ Hi, I am Dr. Martin Esugo, a Research Fellow in Data and Artificial Intelligence
 | *Python                | *Traffic Forecasting   | *Healthcare            |
 | *Data Science          | *Simulation Modeling   | *Innovation            |
 | ll5                    | cell6                  |                        |
-|--------------------------------------------------------------------------|
 | cell1                  | cell2                  | cell3                  |
 | cell4                  | cell5                  | cell6                  |
 
