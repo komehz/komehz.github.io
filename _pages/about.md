@@ -12,12 +12,14 @@ Hi, I am Dr. Martin Esugo, a Research Fellow in Data and Artificial Intelligence
 ### Areas of Expertise
 
 | Core Technical Skills: | Research Background:   | Broader Interests:     |
-|:-----------------------|:----------------------:|-----------------------:|
-| *Python                | *Traffic Forecasting   | *Healthcare            |
-| *Data Science          | *Simulation Modeling   | *Innovation            |
-| ll5                    | cell6                  |                        |
-| cell1                  | cell2                  | cell3                  |
-| cell4                  | cell5                  | cell6                  |
+|:-----------------------|:-----------------------|:-----------------------|
+| Python                 | Traffic Forecasting    | Healthcare             |
+| Data Science           | Simulation Modelling   | Innovation             |
+| Machine Learning       | Physics                | Startups               |
+| Deep Learning          | Energy Transition      |                        |
+| Predictive Modeling    |                        |                        |
+| LLMs                   |                        |                        |
+| Computer Vision        |                        |                        |
 
 
 Recent Blog Post
