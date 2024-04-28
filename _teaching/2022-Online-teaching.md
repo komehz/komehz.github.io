@@ -8,4 +8,4 @@ date: 2022-08-04
 location: "Coventry, UK"
 ---
 
-Perpared secondary school students for their exams via online lessons.
+Prepared secondary school students for their exams via online lessons.
