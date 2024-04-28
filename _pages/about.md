@@ -13,16 +13,16 @@ Hi, I am Dr. Martin Esugo, a Research Fellow in Data and Artificial Intelligence
 
 | Core Technical Skills    | Research Background      | Broader Interests        |
 |:-------------------------|:-------------------------|:-------------------------|
-| - Python                 | - Traffic Engineering    | - Startups               |
-| - Data Science           | - Control Engineering    | - Healthcare             |
-| - Machine Learning       | - Physics                | - Energy Transition      |
-| - Deep Learning          |                          |                          |
-| - LLMs                   |                          |                          |
+| - Python                 | - Traffic Engineering    | - Data Insights          |
+| - Data Science           | - Control Engineering    | - Startups               |
+| - Machine Learning       | - Predictive Modelling   | - Healthcare             |
+| - Deep Learning          | - Simulation Modelling   | - Energy Transition      |
+| - LLMs                   | - Physics                |                          |
 | - Computer Vision        |                          |                          |
-| - Predictive Modelling   |                          |                          |
-| - Simulation Modelling   |                          |                          |
+| - TensorFlow             |                          |                          |
+|                          |                          |                          |
 
-
+Data Insights
 <!--
 ## Recent Blog Post
 
