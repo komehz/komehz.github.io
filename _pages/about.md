@@ -20,9 +20,8 @@ Hi, I am Dr. Martin Esugo, a Research Fellow in Data and Artificial Intelligence
 | - LLMs                   | - Physics                |                          |
 | - Computer Vision        |                          |                          |
 | - TensorFlow             |                          |                          |
-|                          |                          |                          |
 
-Data Insights
+
 <!--
 ## Recent Blog Post
 
