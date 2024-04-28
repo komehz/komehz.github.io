@@ -8,4 +8,4 @@ date: 2021-10-01
 location: "Birmingham, UK"
 ---
 
-Delivered course content, prepared test and exam questions, graded assessments, supervised student labs/workshops and aserved as a cover Physics Tutor.
+Delivered course content, prepared test and exam questions, graded assessments, supervised student labs/workshops and served as a cover Physics Tutor.
