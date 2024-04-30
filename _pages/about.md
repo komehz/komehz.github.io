@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Dr. Martin Esugo, a Research Fellow in Data and Artificial Intelligence at Birmingham City University. I empower healthcare startups through AI/machine learning solutions as part of the West Midlands Health Tech Innovation Accelerator Programme. My expertise includes Python, data science, and deep learning techniques, spanning applications from predictive models to large language models. My doctoral research in traffic flow forecasting refined my data-driven insights and skills, allowing me to adapt these approaches to new challenges. Beyond my professional focus, I am fascinated by physics, computational modelling and the global energy transition. Let's connect and explore how AI can innovate within your field.
+Hi, I am Dr. Martin Esugo, a Research Fellow in Data and Artificial Intelligence at Birmingham City University. I empower healthcare startups through AI/machine learning solutions as part of the West Midlands Health Tech Innovation Accelerator Programme. My expertise includes Python, data science, and deep learning techniques, spanning applications from predictive models to large language models. My doctoral research in traffic flow forecasting refined my data-driven insights and skills, allowing me to adapt these approaches to new challenges. Beyond my professional focus, I am fascinated by physics, computational modelling and the global energy transition. Let's [connect](https://komehz.github.io/contact/) and explore how AI can innovate within your field.
 
 ### Highlights:
 
