@@ -22,19 +22,19 @@ Hi, I am Dr. Martin Esugo, a Research Fellow in Data and Artificial Intelligence
 | - TensorFlow             |                          |                          |
 
 
+### Recent Blog Posts
+
 {% raw %}
-  <div class="about-me">
-      <h2>Recent Blog Posts</h2>
-      <ul>
-          {% for post in site.posts limit:5 %}
-          <li>
-              <a href="{{ post.url }}">{{ post.title }}</a>
-              <p>{{ post.excerpt }}</p>
-              <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
-          </li>
-          {% endfor %}
-      </ul>
-  </div>
+<div class="about-me">
+    <ul>
+        {% for post in site.posts limit:5 %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
+            <p>{{ post.excerpt }}</p>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
 {% endraw %}
 
 
