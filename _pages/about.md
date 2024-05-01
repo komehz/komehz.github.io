@@ -30,7 +30,7 @@ Hi, I am Dr. Martin Esugo, a Research Fellow in Data and Artificial Intelligence
 
 <h2>Recent Blog Posts</h2>
 {% for post in site.posts limit:5 %}
-- ![{{ post.title }} thumbnail]({{ post.thumbnail | prepend: site.baseurl }}){: .post-thumbnail }
+  ![{{ post.title }} thumbnail]({{ post.thumbnail | prepend: site.baseurl }}){: .post-thumbnail }
   **[{{ post.title }}]({{ post.url | prepend: site.baseurl }})** - {{ post.date | date: "%B %d, %Y" }}
   {{ post.excerpt }}
 {% endfor %}
