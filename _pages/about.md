@@ -23,7 +23,7 @@ Hi, I am Dr. Martin Esugo, a Research Fellow in Data and Artificial Intelligence
 
 
 <h2>Recent Publications</h2>
-{% assign sorted_publications = site.publications | sort: 'date' | reverse %}
+{% assign sorted_publications = site.publications | sort: 'date' }
 {% for publication in site.publications limit:3 %}
 - "{{ publication.citation }}" [Read more]({{ publication.paperurl }})
 {% endfor %}
