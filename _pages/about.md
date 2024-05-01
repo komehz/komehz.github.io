@@ -23,17 +23,13 @@ Hi, I am Dr. Martin Esugo, a Research Fellow in Data and Artificial Intelligence
 
 
 <h2>Recent Publications</h2>
-{% for publication in site.publications limit:5 %}
-- **Title:** "{{ publication.title }}"
-  - **Authors:** {{ publication.authors }}
-  - **Published In:** {{ publication.published_in }}
-  - **Abstract:** {{ publication.abstract }}
-  - **Link:** [Read more]({{ publication.link }})
+{% for publication in site.publications limit:3 %}
+- **Title:** "{{ publication.citation }}"
 {% endfor %}
 
 <h2>Recent Blog Posts</h2>
 <ul>
-    {% for post in site.posts limit:5 %}
+    {% for post in site.posts limit:1 %}
     <li>
         <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
         <p>{{ post.excerpt }}</p>
