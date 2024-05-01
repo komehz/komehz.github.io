@@ -29,14 +29,11 @@ Hi, I am Dr. Martin Esugo, a Research Fellow in Data and Artificial Intelligence
 {% endfor %}
 
 <h2>Recent Blog Posts</h2>
-<ul>
-    {% for post in site.posts limit:1 %}
-    <li>
-        <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
-        <p>{{ post.excerpt }}</p>
-    </li>
-    {% endfor %}
-</ul>
+{% for post in site.posts limit:5 %}
+- ![{{ post.title }} thumbnail]({{ post.thumbnail | prepend: site.baseurl }}){: .post-thumbnail }
+  **[{{ post.title }}]({{ post.url | prepend: site.baseurl }})** - {{ post.date | date: "%B %d, %Y" }}
+  {{ post.excerpt }}
+{% endfor %}
 
 
 <!--
