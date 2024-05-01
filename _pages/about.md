@@ -24,7 +24,7 @@ Hi, I am Dr. Martin Esugo, a Research Fellow in Data and Artificial Intelligence
 
 ### Recent Blog Posts
 
-{% raw %}
+
 <ul>
     {% for post in site.posts limit:5 %}
     <li>
@@ -33,7 +33,7 @@ Hi, I am Dr. Martin Esugo, a Research Fellow in Data and Artificial Intelligence
     </li>
     {% endfor %}
 </ul>
-{% endraw %}
+
 
 <!--
 ## Recent Blog Post
