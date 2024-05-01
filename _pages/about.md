@@ -22,6 +22,15 @@ Hi, I am Dr. Martin Esugo, a Research Fellow in Data and Artificial Intelligence
 | - TensorFlow             |                          |                          |
 
 
+<h2>Recent Publications</h2>
+{% for publication in site.publications limit:5 %}
+- **Title:** "{{ publication.title }}"
+  - **Authors:** {{ publication.authors }}
+  - **Published In:** {{ publication.published_in }}
+  - **Abstract:** {{ publication.abstract }}
+  - **Link:** [Read more]({{ publication.link }})
+{% endfor %}
+
 <h2>Recent Blog Posts</h2>
 <ul>
     {% for post in site.posts limit:5 %}
