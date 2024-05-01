@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Transportation Engineering, Coventry University, 2023
-* M.Sc. in Control Engineering, Coventry University, 2017
-* B.Sc. in Electrical/Electronics Engineering, University of Lagos, 2015
+* Ph.D. in Transportation Engineering, Coventry University, 2023.
+* M.Sc. in Control Engineering, Coventry University, 2017.
+* B.Sc. in Electrical/Electronics Engineering, University of Lagos, 2015.
 
 Work experience
 ======
@@ -34,10 +34,10 @@ Work experience
   
 Skills
 ======
-* **Programming Languages:** Python, SQL
-* **Programming Toolset:** Tensorflow/Keras, PyTorch, NumPy, Pandas, Matplotlib, OpenCV, LangChain
+* **Programming Languages:** Python, SQL.
+* **Programming Toolset:** Tensorflow/Keras, PyTorch, NumPy, Pandas, Matplotlib, OpenCV, LangChain.
 * **Technology Stack:** Deep Learning, Natural Language Processing, Time Series Forecasting, Computer Vision. 
-* **Platform Proficiency:** Amazon SageMaker, Docker, Git
+* **Platform Proficiency:** Amazon SageMaker and Bedrock, Flowise, LangFlow.
 
 Publications
 ======
