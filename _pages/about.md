@@ -22,9 +22,7 @@ Hi, I am Dr. Martin Esugo, a Research Fellow in Data and Artificial Intelligence
 | - TensorFlow             |                          |                          |
 
 
-### Recent Blog Posts
-
-
+<h2>Recent Blog Posts</h2>
 <ul>
     {% for post in site.posts limit:5 %}
     <li>
