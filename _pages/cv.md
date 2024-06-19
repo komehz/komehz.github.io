@@ -15,7 +15,7 @@ Education
 * M.Sc. in Control Engineering, Coventry University, 2017.
 * B.Sc. in Electrical/Electronics Engineering, University of Lagos, 2015.
 
-Work experience
+Experience
 ======
 * **Research Fellow** \|\| Birmingham City University \|\| Apr. 2024 - Current
   * Provide AI consultancy and assistance to MedTech companies in the West Midlands (United Kingdom).
